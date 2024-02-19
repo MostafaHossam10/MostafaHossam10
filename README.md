@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MostafaHossam10
-- 👀 I’m interested in Securit
+- 👀 I’m interested in Security
 - 🌱 I’m currently learning Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mostafa.hossam1@outlook.com
